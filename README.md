@@ -2,6 +2,7 @@
 
 <div>📚 Atualmente estudo Desenvolvimento Web na Trybe, onde desenvolvo projetos envolvendo HTMS, CSS, JavaScript, entre outras tecnologias.</div>
 <div>😄 Pronomes: ela/dela</div>
+<div>⚡ Hobbies: aprender coisas novas, assistir séries e filmes e conhecer lugares diferentes.</div>
 
 <br>
 
