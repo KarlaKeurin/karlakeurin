@@ -30,7 +30,8 @@
 
 ### 🚀 I’m currently learning
 
-![C#](https://img.shields.io/badge/C%23-007ACC?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-007ACC?style=for-the-badge&logo=csharp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-222?style=for-the-badge&logo=css3&logoColor=white&logo=figma)
 <br>
 
 ### ⚡ Fun facts
